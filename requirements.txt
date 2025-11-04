@@ -1,0 +1,6 @@
+pandas
+pyarrow
+boto3
+pymongo
+python-dotenv
+requests
